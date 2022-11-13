@@ -1,8 +1,6 @@
-### gatsby-admin-template
+**gatsby-setupe**
 
-Admin dashboard template based on Gatsby with [@paljs/ui](https://github.com/paljs/ui) component package
-
-#Setup:
+**Setup:**
 
 ```
 git clone https://github.com/paljs/gatsby-admin-template.git
@@ -14,7 +12,7 @@ yarn install
 yarn dev
 ```
 
-#Docker:
+**Docker:**
 
 ```
 git clone https://github.com/paljs/gatsby-admin-template.git
