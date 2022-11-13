@@ -1,4 +1,4 @@
-**gatsby-setupe**
+**gatsby-setup**
 
 **Setup:**
 
